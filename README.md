@@ -9,3 +9,9 @@ Github'ı Öğrenirken oluşturduğum ilk depo!
 ## Bu depoda neler var?
 -  [İlk programım](kodlar/merhaba.py)
 ![Sakarya Üniversitesi](saulogo.jpg)
+
+## Hobiler
+- Terraria
+- Bilgisayarlar
+- Yapay Zeka
+- Terraria Calamity
