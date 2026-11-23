@@ -1,2 +1,10 @@
 # Merhaba-Github
-Github'ı Öğrenirken oluşturduğum ilk repo
+Github'ı Öğrenirken oluşturduğum ilk depo!
+
+## Hakkımda
+- **Bölüm:** Bilgisayar Mühendisliği
+- **En çok merak ettiğim konu:**...
+- **Üniversite:** Sakarya Üniversitesi
+
+## Bu depoda neler var?
+-  [İlk programım](kodlar/merhaba.py)
